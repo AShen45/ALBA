@@ -7,3 +7,4 @@ python >= 3.6
 rdkit   
 datamol   
 pandas
+torch_geometric
